@@ -112,6 +112,11 @@ a {
   width: min(900px, 100%);
 }
 
+.page-intro {
+  padding-top: 96px;
+  padding-bottom: 40px;
+}
+
 .eyebrow {
   margin: 0 0 10px;
   color: var(--accent);
@@ -178,6 +183,10 @@ h1 {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 20px;
+}
+
+.learning-grid {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
 }
 
 .topic-card {
@@ -307,6 +316,7 @@ h1 {
   }
 
   .card-grid,
+  .learning-grid,
   .link-list {
     grid-template-columns: 1fr;
   }
