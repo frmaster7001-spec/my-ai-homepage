@@ -16,7 +16,7 @@ https://frmaster7001-spec.github.io/my-ai-homepage/
 - `posts/`: 個別記事ページを置くフォルダ
 - `posts/homepage-first-version.html`: 最初の記事ページ
 - `posts/codex-supervision-workflow.html`: 2本目の記事ページ
-- `assets/images/`: ホームページ用画像の置き場（実画像はまだ未追加）
+- `assets/images/`: ホームページ用画像の置き場（トップ画像・記事サムネイルを追加済み）
 - `assets/images/home-hero.png`: トップページ用アイキャッチ画像
 - `assets/images/post-homepage-first-version.png`: 1本目の記事サムネイル画像
 - `style.css`: 共通デザイン
