@@ -147,6 +147,40 @@ h1 {
   font-size: 1.1rem;
 }
 
+.hero-visual {
+  width: min(680px, 100%);
+  margin-bottom: 32px;
+}
+
+.visual-card {
+  padding: 18px;
+  background: rgba(255, 255, 255, 0.72);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  box-shadow: var(--shadow);
+}
+
+/* Future images can replace the placeholder inside .visual-card. */
+.visual-placeholder {
+  display: grid;
+  min-height: 180px;
+  margin-bottom: 16px;
+  place-items: center;
+  background:
+    linear-gradient(135deg, rgba(31, 122, 104, 0.16), transparent 44%),
+    linear-gradient(315deg, rgba(216, 137, 58, 0.22), transparent 40%),
+    #eef6f4;
+  border: 1px dashed rgba(31, 122, 104, 0.45);
+  border-radius: 8px;
+  color: var(--accent-dark);
+  font-weight: 800;
+}
+
+.visual-note {
+  margin-bottom: 0;
+  color: var(--muted);
+}
+
 .primary-link {
   display: inline-flex;
   align-items: center;
