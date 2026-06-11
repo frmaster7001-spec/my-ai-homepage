@@ -207,6 +207,13 @@ h1 {
   transform: translateY(-2px);
 }
 
+.post-footer-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 24px;
+}
+
 .section {
   width: min(1120px, calc(100% - 32px));
   margin: 0 auto;
