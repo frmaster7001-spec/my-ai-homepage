@@ -13,6 +13,7 @@ HTML / CSS / JavaScript だけで作っている静的サイトです。
 - `posts/homepage-first-version.html`: 最初の記事ページ
 - `posts/codex-supervision-workflow.html`: 2本目の記事ページ
 - `assets/images/`: ホームページ用画像の置き場（実画像はまだ未追加）
+- `assets/images/home-hero.png`: トップページ用アイキャッチ画像
 - `style.css`: 共通デザイン
 - `script.js`: スマホメニュー開閉
 - `AGENTS.md`: Codex作業ルール

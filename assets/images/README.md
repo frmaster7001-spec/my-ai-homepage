@@ -11,12 +11,13 @@
 ## 推奨形式
 
 - `webp` または `jpg` を基本にする
+- 必要に応じて `png` も使う
 - トップ用画像、記事用画像は横長を基本にする
 - 画像は重くしすぎない
 
 ## ファイル名の例
 
-- トップ画像: `home-hero.webp`
+- トップ画像: `home-hero.png`
 - 記事画像: `post-homepage-first-version.webp`
 - 記事画像: `post-codex-supervision-workflow.webp`
 

@@ -176,6 +176,15 @@ h1 {
   font-weight: 800;
 }
 
+.visual-image {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  margin-bottom: 16px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
 .visual-note {
   margin-bottom: 0;
   color: var(--muted);
