@@ -18,7 +18,7 @@
 ## ファイル名の例
 
 - トップ画像: `home-hero.png`
-- 記事画像: `post-homepage-first-version.webp`
+- 記事画像: `post-homepage-first-version.png`
 - 記事画像: `post-codex-supervision-workflow.webp`
 
 ## 使う時の注意

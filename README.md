@@ -18,6 +18,7 @@ https://frmaster7001-spec.github.io/my-ai-homepage/
 - `posts/codex-supervision-workflow.html`: 2本目の記事ページ
 - `assets/images/`: ホームページ用画像の置き場（実画像はまだ未追加）
 - `assets/images/home-hero.png`: トップページ用アイキャッチ画像
+- `assets/images/post-homepage-first-version.png`: 1本目の記事サムネイル画像
 - `style.css`: 共通デザイン
 - `script.js`: スマホメニュー開閉
 - `AGENTS.md`: Codex作業ルール
