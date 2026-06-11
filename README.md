@@ -16,6 +16,7 @@ https://frmaster7001-spec.github.io/my-ai-homepage/
 - `posts/`: 個別記事ページを置くフォルダ
 - `posts/homepage-first-version.html`: 最初の記事ページ
 - `posts/codex-supervision-workflow.html`: 2本目の記事ページ
+- `posts/building-and-sharing-are-different.html`: 3本目の記事ページ
 - `assets/images/`: ホームページ用画像の置き場（トップ画像・記事サムネイルを追加済み）
 - `assets/images/home-hero.png`: トップページ用アイキャッチ画像
 - `assets/images/post-homepage-first-version.png`: 1本目の記事サムネイル画像
@@ -28,8 +29,8 @@ https://frmaster7001-spec.github.io/my-ai-homepage/
 - GitHub Pagesで公開済み
 - トップページに `assets/images/home-hero.png` を追加済み
 - `learning.html` に学習メモを2件追加済み
-- `articles.html` に記事一覧を作り、記事2件を掲載済み
-- `posts/` 配下に個別記事ページを2本追加済み
+- `articles.html` に記事一覧を作り、記事3件を掲載済み
+- `posts/` 配下に個別記事ページを3本追加済み
 - 記事一覧にサムネイル枠を追加済み
 - 1本目の記事に `assets/images/post-homepage-first-version.png` のサムネイルを追加済み
 - 個別記事ページ下部に「記事一覧へ戻る」「トップページへ戻る」導線を追加済み
