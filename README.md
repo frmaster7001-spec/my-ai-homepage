@@ -3,9 +3,10 @@
 このサイトは、Codex、Python、Git、HTML/CSS/JavaScript、AI創作の学習記録をまとめる個人ホームページです。
 HTML / CSS / JavaScript だけで作っている静的サイトです。
 
-## 公開URL
+## 公開状態
 
-https://frmaster7001-spec.github.io/my-ai-homepage/
+GitHub Pagesで表示確認まで実施済みです。
+ただし、現在は外部にURLを積極的に共有せず、学習用の実験室・実験記録として扱っています。
 
 ## 現在のページ構成
 
@@ -26,7 +27,7 @@ https://frmaster7001-spec.github.io/my-ai-homepage/
 
 ## 追加済みの内容
 
-- GitHub Pagesで公開済み
+- GitHub Pagesで表示確認済み
 - トップページに `assets/images/home-hero.png` を追加済み
 - `learning.html` に学習メモを2件追加済み
 - `articles.html` に記事一覧を作り、記事3件を掲載済み
