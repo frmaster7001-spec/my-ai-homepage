@@ -3,6 +3,10 @@
 このサイトは、Codex、Python、Git、HTML/CSS/JavaScript、AI創作の学習記録をまとめる個人ホームページです。
 HTML / CSS / JavaScript だけで作っている静的サイトです。
 
+## 公開URL
+
+https://frmaster7001-spec.github.io/my-ai-homepage/
+
 ## 現在のページ構成
 
 - `index.html`: トップページ
