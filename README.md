@@ -25,8 +25,14 @@ https://frmaster7001-spec.github.io/my-ai-homepage/
 
 ## 追加済みの内容
 
-- `learning.html` に「最初の学習メモ」を追加済み
-- `articles.html` に「最初の制作ログ」を追加済み
+- GitHub Pagesで公開済み
+- トップページに `assets/images/home-hero.png` を追加済み
+- `learning.html` に学習メモを2件追加済み
+- `articles.html` に記事一覧を作り、記事2件を掲載済み
+- `posts/` 配下に個別記事ページを2本追加済み
+- 記事一覧にサムネイル枠を追加済み
+- 1本目の記事に `assets/images/post-homepage-first-version.png` のサムネイルを追加済み
+- 個別記事ページ下部に「記事一覧へ戻る」「トップページへ戻る」導線を追加済み
 - 4ページのナビゲーションを統一済み
 - 外部リンクは本番URL未設定のため「準備中」表示
 
