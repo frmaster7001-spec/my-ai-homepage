@@ -11,6 +11,7 @@ HTML / CSS / JavaScript だけで作っている静的サイトです。
 - `about.html`: このサイトについて
 - `posts/`: 個別記事ページを置くフォルダ
 - `posts/homepage-first-version.html`: 最初の記事ページ
+- `posts/codex-supervision-workflow.html`: 2本目の記事ページ
 - `style.css`: 共通デザイン
 - `script.js`: スマホメニュー開閉
 - `AGENTS.md`: Codex作業ルール

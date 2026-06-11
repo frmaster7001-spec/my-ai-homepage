@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PowerShell手入力からCodex監督型に切り替えた話 | AIと現場と創作の学習記録</title>
+  <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+  <header class="site-header">
+    <nav class="nav" aria-label="メインナビゲーション">
+      <a class="logo" href="../index.html">AIと現場と創作の学習記録</a>
+      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="nav-links">
+        <span class="nav-toggle-line"></span>
+        <span class="nav-toggle-line"></span>
+        <span class="nav-toggle-line"></span>
+        <span class="sr-only">メニュー</span>
+      </button>
+      <ul class="nav-links" id="nav-links">
+        <li><a href="../index.html">トップ</a></li>
+        <li><a href="../index.html#topics">学習テーマ</a></li>
+        <li><a href="../learning.html">学習記録</a></li>
+        <li><a href="../articles.html">記事メモ</a></li>
+        <li><a href="../about.html">このサイトについて</a></li>
+        <li><a href="../index.html#links">リンク</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="section page-intro">
+      <p class="eyebrow">Project Log</p>
+      <h1>PowerShell手入力からCodex監督型に切り替えた話</h1>
+      <p class="lead">
+        手入力の作業から、Codexに確認を任せて人間が監督する進め方へ切り替えた記録です。
+      </p>
+      <a class="primary-link" href="../articles.html">記事メモへ戻る</a>
+    </section>
+
+    <section class="section" aria-labelledby="post-title">
+      <div class="section-heading">
+        <p class="eyebrow">Workflow</p>
+        <h2 id="post-title">作業の中心を変えてみた</h2>
+      </div>
+
+      <article class="topic-card">
+        <div class="card-icon">02</div>
+        <h3>手入力から監督型へ</h3>
+        <p>
+          最初はPowerShellで手入力しながら、dir、git status、git add、git commit などを一つずつ確認していました。
+          ただ、プロンプト部分まで入力してしまったり、細かい確認作業に時間がかかったりして、少しずつ負担を感じるようになりました。
+        </p>
+        <p>
+          そこで、確認作業、git diff、commit、表示確認はCodexに任せる運用に切り替えました。
+          自分はCodexの提案を確認し、危険な作業がないか判断して、必要なところで承認する監督役に回る形です。
+        </p>
+        <p>
+          これにより、学習の中心が「手入力の作業」から「変更内容を理解して判断すること」に移りました。
+          AIに任せきりではなく、人間が方針と安全性を確認するのが大事だと感じています。
+        </p>
+      </article>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>&copy; 2026 AIと現場と創作の学習記録</p>
+  </footer>
+
+  <script src="../script.js"></script>
+</body>
+</html>
