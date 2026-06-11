@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Codexで小さなホームページ第1版を作りました | AIと現場と創作の学習記録</title>
+  <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+  <header class="site-header">
+    <nav class="nav" aria-label="メインナビゲーション">
+      <a class="logo" href="../index.html">AIと現場と創作の学習記録</a>
+      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="nav-links">
+        <span class="nav-toggle-line"></span>
+        <span class="nav-toggle-line"></span>
+        <span class="nav-toggle-line"></span>
+        <span class="sr-only">メニュー</span>
+      </button>
+      <ul class="nav-links" id="nav-links">
+        <li><a href="../index.html">トップ</a></li>
+        <li><a href="../index.html#topics">学習テーマ</a></li>
+        <li><a href="../learning.html">学習記録</a></li>
+        <li><a href="../articles.html">記事メモ</a></li>
+        <li><a href="../about.html">このサイトについて</a></li>
+        <li><a href="../index.html#links">リンク</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="section page-intro">
+      <p class="eyebrow">Project Log</p>
+      <h1>Codexで小さなホームページ第1版を作りました</h1>
+      <p class="lead">
+        Codexと一緒に、HTML / CSS / JavaScriptだけの静的ホームページを作り始めた記録です。
+      </p>
+      <a class="primary-link" href="../articles.html">記事メモへ戻る</a>
+    </section>
+
+    <section class="section" aria-labelledby="post-title">
+      <div class="section-heading">
+        <p class="eyebrow">First Post</p>
+        <h2 id="post-title">最初に作ったもの</h2>
+      </div>
+
+      <article class="topic-card">
+        <div class="card-icon">01</div>
+        <h3>小さく始めるホームページ制作</h3>
+        <p>
+          Codexを使って、HTML / CSS / JavaScriptだけの静的ホームページを作り始めました。
+          まずは大きな機能を入れず、トップページ、学習記録、記事メモ、このサイトについて、の4ページ構成まで形にしました。
+        </p>
+        <p>
+          作業はGitで変更履歴を残しながら進めています。
+          途中でPowerShellの手入力が思ったより負担になることに気づいたので、git statusやgit diff、表示確認、commitはCodexに任せ、自分は内容を監督する形に変えました。
+        </p>
+        <p>
+          その流れでAGENTS.mdも作り、今後の作業ルールをプロジェクト内に残しました。
+          AIに任せきりにするのではなく、人間が確認しながら、まず小さく作って壊さず育てる方針で進めています。
+        </p>
+      </article>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>&copy; 2026 AIと現場と創作の学習記録</p>
+  </footer>
+
+  <script src="../script.js"></script>
+</body>
+</html>

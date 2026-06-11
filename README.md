@@ -9,6 +9,8 @@ HTML / CSS / JavaScript だけで作っている静的サイトです。
 - `learning.html`: 学習記録ページ
 - `articles.html`: 記事メモ・制作ログページ
 - `about.html`: このサイトについて
+- `posts/`: 個別記事ページを置くフォルダ
+- `posts/homepage-first-version.html`: 最初の記事ページ
 - `style.css`: 共通デザイン
 - `script.js`: スマホメニュー開閉
 - `AGENTS.md`: Codex作業ルール
